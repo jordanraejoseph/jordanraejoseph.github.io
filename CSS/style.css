@@ -1,7 +1,30 @@
-body {
-	background-color: black;
+h1 {
+	font-size: 48px;
+
 }
 
-h1, p {
-	color: white;
+body {
+	font-size: 16px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+ul {
+	font-size: 12px;
+	text-align: center;
+	list-style: none;
+	display: inline;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#CONTACT {
+	color: #480000;
+	font-size: 16px
+}
+
+hr {
+	width: 500px;
 }
