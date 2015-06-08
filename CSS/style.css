@@ -12,22 +12,13 @@ h1 {
 	line-height: 0.2em;
 }
 
-div {
-	margin-right: auto;
-	margin-left: auto;
-	height: 50px;
-	width: 1400px;
-	background-color: #000;
-	vertical-align: middle;
-	line-height: 50px;
-	padding-left: 15px;
-}
-
-li {
+nav {
 	font-family: 'Titillium Web', sans-serif;
-	display: inline;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
 	text-align: center;
-	margin: 70px;
 	color: #fff;
 }
 
@@ -38,13 +29,12 @@ body {
 	background-repeat: no-repeat;
 }
 
-#baldwin {
+#img {
 	margin-right: auto;
 	margin-left: auto;
 	height: auto;
 	width: 1415px;
 }
-
 
 #copyright {
 	color: gray;
