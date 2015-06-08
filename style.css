@@ -1,0 +1,47 @@
+@font-face {
+	font-family: BebasNeue;
+	src: url('fonts/BebasNeue.otf');
+}
+
+h1 {
+	font-family: 'BebasNeue', sans-serif;
+	font-size: 68px;
+	text-align: center;
+	color: #000;
+	letter-spacing: 0.2em;
+	line-height: 0.2em;
+}
+
+nav {
+	font-family: 'Titillium Web', sans-serif;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+	text-align: center;
+	color: #fff;
+}
+
+body {
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+	background-repeat: no-repeat;
+}
+
+#img {
+	margin-right: auto;
+	margin-left: auto;
+	height: auto;
+	width: 1415px;
+}
+
+#copyright {
+	color: gray;
+	font-size: 16px
+}
+
+hr {
+	height: 1px;
+	width: 500px;
+}
